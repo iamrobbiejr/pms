@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4ca4cc6-a8d6-4aa3-a5b4-007f53a6b679" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/portfolio-management/src/views/dashboard/Dashboard - Copy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-management/src/views/dashboard/UserDashboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-management/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-management/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-management/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-management/src/App.js" afterDir="false" />
